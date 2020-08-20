@@ -4,5 +4,5 @@
 
 If you are interested in building cool embedded projects, or you have something in mind, reach out to me! I enjoy solving problems.
 
-I'm most easily reachable via Keybase: https://keybase.io/bri_
+I'm most easily reachable via [Keybase: https://keybase.io/bri_](https://keybase.com/bri_)
 <!-- who knew Github was trying to become a social network? This is weird. Is it a resume? A profile? What *is* this? -->
