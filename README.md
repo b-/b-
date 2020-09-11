@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm currently working on embedded Linux projects, namely [HOOBS](https://github.com/hoobs-org/hoobs-build). I'm learning the Raspbian build system [pi-gen](https://github.com/rpi-distro/pi-gen) as well as experimenting with non-Raspbian Linux distributions on the Raspberry Pi.
+- 🔭 I'm currently working on embedded Linux projects. I'm learning the Raspbian build system [pi-gen](https://github.com/rpi-distro/pi-gen) as well as experimenting with non-Raspberry Pi OS operating systems  on the Raspberry Pi.
 
 If you are interested in building cool embedded projects, or you have something in mind, reach out to me! I enjoy solving problems.
 
