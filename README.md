@@ -2,7 +2,7 @@
 
 - I'm currently working on embedded device projects and firmware reverse engineering, and learning about [Ghidra](https://github.com/NationalSecurityAgency/ghidra) and Arm assembly language.
 
-More specifically, I'm contributing to [Magic Lantern](https://magiclantern.fm) (with a focus on porting to the Canon M50 mirrorless digital camera), and I'm learning the Raspbian build system [pi-gen](https://github.com/rpi-distro/pi-gen). I am also experimenting with non-Raspberry Pi OS operating systems  on the Raspberry Pi, such as other Linux distributions and BSD variants.
+More specifically, I'm contributing to [Magic Lantern](https://magiclantern.fm) (with a focus on porting to the Canon M50 mirrorless digital camera), and I'm learning the Raspbian build system [pi-gen](https://github.com/rpi-distro/pi-gen). I am also experimenting with other aarch64 Linux platforms, such as the Pine64 Pinebook Pro.
 
 If you are interested in building cool embedded projects or Linux systems, reach out to me! I enjoy solving problems.
 
