@@ -1,13 +1,5 @@
-### Hi there 👋
+### _bri_, open sourceror.
 
-- I'm currently working on embedded device projects and firmware reverse engineering, and learning about [Ghidra](https://github.com/NationalSecurityAgency/ghidra) and Arm assembly language.
+(TODO: update github README.md)
 
-More specifically, I'm contributing to [Magic Lantern](https://magiclantern.fm) (with a focus on porting to the Canon M50 mirrorless digital camera), and I'm learning the Raspbian build system [pi-gen](https://github.com/rpi-distro/pi-gen). I am also experimenting with other aarch64 Linux platforms, such as the Pine64 Pinebook Pro.
-
-If you are interested in building cool embedded projects or Linux systems, reach out to me! I enjoy solving problems.
-
-I'm most easily reachable via [Keybase: https://keybase.io/bri_](https://keybase.com/bri_)
-
-Formal résumé available upon request.
-
-<!-- who knew Github was trying to become a social network? This is weird. Is it a resume? A profile? What *is* this? -->
+Formal résumé available upon request. _hi (at) ibeep.com_
