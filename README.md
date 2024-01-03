@@ -1,14 +1,14 @@
 ### _bri_, open sourceror.
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=b-&show_icons=true&theme=github_dark_dimmed&rank_icon=percentile"
+    srcset="https://github-readme-stats-teal-mu-45.vercel.app/api?username=b-&show_icons=true&theme=github_dark_dimmed&rank_icon=percentile"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=b-&show_icons=true&rank_icon=percentile"
+    srcset="https://github-readme-stats-teal-mu-45.vercel.app/api?username=b-&show_icons=true&rank_icon=percentile"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=b-&show_icons=true&rank_icon=percentile" />
+  <img src="https://github-readme-stats-teal-mu-45.vercel.app/api?username=b-&show_icons=true&rank_icon=percentile" />
 </picture>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I4RC09H)
