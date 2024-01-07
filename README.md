@@ -21,4 +21,4 @@ I care a lot about giving back to the open source community by way of contributi
 
 Open to work. Formal résumé available upon request. _hi (at) ibeep.com_
 
-![Visitor Count](https://profile-counter.glitch.me/b-/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/b-/count.svg?)
