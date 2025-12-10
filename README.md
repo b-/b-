@@ -1,4 +1,4 @@
-### _bri_, open sourceror.
+### _bri_, open sourceress.
 <picture>
   <source
     srcset="https://github-readme-stats-teal-mu-45.vercel.app/api?username=b-&show_icons=true&theme=github_dark_dimmed&rank_icon=percentile"
